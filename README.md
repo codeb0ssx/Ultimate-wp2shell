@@ -1,4 +1,4 @@
-# CVE-2026-63030 (WP2Shell) – Detection & Validation Proof of Concept
+# (WP2Shell) – Proof of Concept
 
 > **Educational and defensive Proof of Concept (PoC)** for validating exposure to the WordPress Core vulnerabilities **CVE-2026-60137** and **CVE-2026-63030 (WP2Shell)**.
 
